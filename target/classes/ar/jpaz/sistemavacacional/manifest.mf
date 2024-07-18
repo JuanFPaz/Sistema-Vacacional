@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-Created-By: Fonky
-Main-Class: SistemaVacacional
-X-COMMENT: -
